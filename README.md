@@ -1,6 +1,6 @@
 # Simon Duchastel 🚀
 
-![Cover image](/images/cover-image.png)
+![Cover image](/images/cover-image.jpg)
 
 👋 Hi, I'm Simon — a software developer based in NYC. 
 
