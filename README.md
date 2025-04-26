@@ -1,4 +1,4 @@
-# Simon Duchastel 🚀
+# Simon Duchastel
 
 ![Cover image](/images/cover-image.jpg)
 
