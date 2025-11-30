@@ -8,6 +8,7 @@ I specialize in Android app development and am passionate about building amazing
 
 ## ✨ What I'm currently working on
 - 🪄 Building [Solenne Flashcards](https://flashcards.solenne.ai), an AI-powered flashcard generator written in Kotlin Multiplatform for the web, ios, and android
+- 🤖 Building Brainiac, my own personal AI assistant both for learning and cusotomization purposes
 - 📝 Writing about software, books, and personal projects on my [website](https://simon.duchastel.com).
 
 Like my work? You can [buy me a coffee](https://buymeacoffee.com/simonduchastel).
